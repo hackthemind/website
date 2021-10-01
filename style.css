@@ -1,0 +1,15 @@
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+    border: 2px rgb(26, 22, 31) solid;
+    margin:2% 35%;
+}
+input,textarea,#date,#sele,#check{
+    background-color: rgb(185, 214, 221);
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
